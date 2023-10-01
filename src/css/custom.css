@@ -1,0 +1,46 @@
+.recent-box{
+    width: 12%;
+    height: 30em;
+    float: left;
+    margin-top: 0.5em;
+    margin-right: 8em;
+    padding: 10px;
+    border-radius: 0.5em;
+    text-align: center;
+    list-style: none;
+    border: 2px solid gray;
+}
+
+.headName{
+    font-size: 2em;
+    font-weight: 600;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+    text-align: center;
+    /* text-decoration: underline; */
+    color: #000000;
+    text-shadow: 1px 1px 1px #000000;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5em;
+    /* letter-spacing: 0.1em; */
+    border-radius: 5px;
+    text-transform: uppercase;
+    background-color:#fff;
+    box-shadow: 3px 3px 3px 3px rgb(56, 56, 56);
+    
+}
+.dataName{
+    font-size: 1.5em;
+    text-align: center;
+    color: #fff;
+    background-color: #000000;
+    box-shadow: 1px 1px 1px #000000;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    border-radius: 4px;
+    margin: 7px;
+    
+}
